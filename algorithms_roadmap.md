@@ -70,3 +70,29 @@
 ## Деревья
 Много задач. Они, в основном, базовые.
 
+- Binary Tree Inorder Traversal
+- Binary Tree Preorder Traversal
+- Binary Tree Postorder Traversal
+- Binary Tree Level Order Traversal
+- Maximum Depth of Binary Tree
+- Minimum Depth of Binary Tree
+- Path Sum
+- Symmetric Tree
+- Same Tree
+- Binary Tree Paths
+- Validate Binary Search Tree
+- Lowest Common Ancestor of a Binary Tree
+- Binary Tree Right Side View
+
+## Хеш-таблицы
+Базовый набор задач
+
+- Intersection of Two Arrays
+- Two Sum
+- Isomorphic Strings
+- Word Pattern
+- Valid Sudoku
+- Group Anagrams
+- LRU Cache
+- Top K Frequent Elements
+
