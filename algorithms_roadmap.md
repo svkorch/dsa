@@ -96,3 +96,75 @@
 - LRU Cache
 - Top K Frequent Elements
 
+## Матрицы
+
+- Matrix Diagonal Sum
+- Valid Sudoku
+- 01 Matrix
+- Maximum Square
+- Set Matrix Zeroes
+- Spiral Matrix
+- Rotate Image
+
+## Очередь и стек
+
+- Valid Parentheses
+- Min Stack
+- Daily Temperatures
+- Implement Queue using Stacks
+- Implement Stack using Queues
+- Minimum Remove to Make Valid Parentheses
+
+## Битовые Манипуляции
+
+- Power of Two
+- Power of Four
+- Counting Bits
+- Reverse Bits
+- Hamming Distance
+- Total Hamming Distance
+
+## Скользящие окна
+
+- Longest Substring Without Repeating Characters
+- Longest Repeating Character Replacement
+- Fruit into Basket
+- Find All Anagrams in a String
+- Sliding Window Maximum
+
+## Поиск с возвратом
+
+- Permutations
+- Combination Sum
+- Subset
+- Generate Parentheses
+- Remove Invalid Parentheses
+- N-Queens
+- N-Queens II
+
+## Дополнительно (жадные алгоритмы, динамическое программирование, работа с графами)
+Достигнете алгоритмической осведомлённости
+
+- DFS / BFS
+- Префиксное дерево
+- Суффиксное дерево
+- Quad дерево
+- Дерево отрезков
+- Система непересекающихся множеств
+- Алгоритмы Ли / Дейкстры / Флойда-Уоршелла
+- Топологическая сортировка
+- Алгоритм Канаде
+- Алгоритм Кнута-Морриса-Пратта
+- **Динамическое программирование**
+- Quick select
+- Дерево Меркла
+- Персистентные структуры данных
+- Фильтр Блума
+- Битовая карта
+- B / B+ дерево
+- LSM дерево
+- Splay дерево
+- Кольцевой буфер
+- Фибоначчиева куча
+- **Жадные алгоритмы**
+
